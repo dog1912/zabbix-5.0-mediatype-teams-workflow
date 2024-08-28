@@ -1,4 +1,4 @@
-<h1 align="center" id="title">Owner avatar zabbix-5.0-template-teams-workflow</h1>
+<h1 align="center" id="title">Mediatype zabbix for MS teams workflows</h1>
 
 <p align="center"><img src="https://socialify.git.ci/dog1912/zabbix-5.0-template-teams-workflow/image?language=1&amp;owner=1&amp;name=1&amp;stargazers=1&amp;theme=Light" alt="project-image"></p>
 
