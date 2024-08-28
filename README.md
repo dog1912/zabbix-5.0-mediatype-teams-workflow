@@ -1,8 +1,8 @@
-<h1 align="center" id="title">Mediatype Zabbix 5.0 for MS teams workflows</h1>
+<h1 align="center" id="title">Mediatype Zabbix 5.0 for MS Teams Workflows</h1>
 
 <p align="center"><img src="https://socialify.git.ci/dog1912/zabbix-5.0-template-teams-workflow/image?language=1&amp;owner=1&amp;name=1&amp;stargazers=1&amp;theme=Light" alt="project-image"></p>
 
-<p id="description">Mediatype Zabbix 5.0 for MS teams workflows</p>
+<p id="description">Mediatype Zabbix 5.0 for MS Teams Workflows</p>
 
 <h2>🛠️ Installation Steps:</h2>
 
