@@ -8,11 +8,11 @@
 
 <p>1. Download the necessary files or clone this project anywhere</p>
 
-<p>2. Access Teams and in "Add apps" look for "Workflows" and ask to create a "New Flow"</p>
+```
+git clone https://github.com/dog1912/zabbix-5.0-mediatype-teams-workflow.git
+```
 
-```
-git clone https://github.com/dog1912/Spotify-Music-Downloader-Telegram-Bot.git
-```
+<p>2. Access Teams and in "Add apps" look for "Workflows" and ask to create a "New Flow"</p>
 
 <p>3. Search the templates for "Webhook" and choose the "Post to a channel when a Webhook request is received"</p>
 
